@@ -6,7 +6,7 @@ import yfinance as yf
 st.title('Stock & Crypto Dashboard')
 
 # Stock and Crypto Signs
-tickers = ('TSLA', 'AAPL', 'MSFT', 'LCID', 'BB')
+tickers = ('TSLA', 'AAPL', 'MSFT', 'LCID', 'BB', 'FB')
 crypto = ('BTC-USD', 'ETH-USD', 'DOGE-USD', 'SHIB-USD')
 
 # Dropdown Menu
