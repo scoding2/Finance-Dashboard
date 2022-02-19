@@ -7,7 +7,7 @@ st.title('Stock & Crypto Dashboard')
 
 # Stock and Crypto Signs
 tickers = ('TSLA', 'GOOG', 'AAPL', 'MSFT', 'LCID', 'BB', 'FB', 'WMT', 'AMZN')
-crypto = ('BTC-USD', 'ETH-USD', 'DOGE-USD', 'SHIB-USD', 'ADAUSD')
+crypto = ('BTC-USD', 'ETH-USD', 'DOGE-USD', 'SHIB-USD', 'ADA-USD')
 
 # Dropdown Menu
 dropdown = st.multiselect('Pick your Stock Asset', tickers)
